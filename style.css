@@ -14,9 +14,7 @@ body {
   overflow: auto;
   margin: 0;
 }
-.card {
-  background-color: #141414;
-}
+
 h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: lighter;
