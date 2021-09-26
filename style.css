@@ -22,10 +22,10 @@ h4 {
   color: #fff;
 }
 
-.vantajs {
+/* .vantajs {
   min-height: 100vh;
   min-width: 100vw;
-}
+} */
 .loading,
 .results {
   display: none;
