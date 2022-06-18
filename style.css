@@ -14,18 +14,20 @@ body {
   overflow: auto;
   margin: 0;
 }
-
-h1,
-h4 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: lighter;
-  color: #fff;
+.card {
+  background-color: #10151c;
+  border: 1px solid #3ff3ff;
 }
 
-/* .vantajs {
-  min-height: 100vh;
-  min-width: 100vw;
-} */
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  color: #3ff3ff;
+}
+
+.form-control {
+  background-color: #00001e;
+}
 .loading,
 .results {
   display: none;
